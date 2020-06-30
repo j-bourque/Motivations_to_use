@@ -12,4 +12,4 @@ This R code contains code for all linear mixed effects (LME) models conducted as
 
 3. GLMM_model.R
 
-This R code contains code for the generalized linear mixed effects models (GLMM) conducted to evaluate the longitudinal association between motives to use and psychosis risk while controlling for the longitudinal association between motives to use and other mental health outcomes (internalizing and externalizing symptoms, and substance use problems). 
+This R code contains code for the generalized linear mixed effects models (GLMM) conducted to evaluate the specificity of the longitudinal association between motives to use and psychosis risk after controlling for the longitudinal association between motives to use and other mental health outcomes (internalizing and externalizing symptoms, and substance use problems). 
